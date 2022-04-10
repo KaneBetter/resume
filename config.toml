@@ -1,6 +1,6 @@
 # Page settings
 
-baseURL = "https://kanebetter.github.io/resume"
+baseURL = "https://kanebetter.github.io/"
 languageCode = "en"
 title = ""
 theme = "hugo-devresume-theme"
