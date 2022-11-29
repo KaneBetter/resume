@@ -175,7 +175,7 @@ googleAnalytics = "G-MRV0T2HZ0C"
 
     [params.summary]
         enable = true
-        text = "Summarise your career here. Hi everyone - I am looking for a new role and would appreciate your support. Thank you in advance for any connections, advice, or opportunities you can offer. I will complete my Master’s in Software Engineering in December 2022 from UC Irvine, and now I am actively looking for Full-time position."
+        text = "Hi everyone - I am looking for a new role and would appreciate your support. Thank you in advance for any connections, advice, or opportunities you can offer. I will complete my Master’s in Software Engineering in December 2022 from UC Irvine, and now I am actively looking for Full-time position."
 
 
 
@@ -189,8 +189,8 @@ googleAnalytics = "G-MRV0T2HZ0C"
 
         [[params.experience.list]]
         title = "Software Engineering Intern"
-        dates = "2020 - 2020"
-        company = "Hangzhou Xuelian Company"
+        dates = "2022.6 - 2022.9"
+        company = "Arista Networks, CA"
         details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Donec pede justo, fringilla vel. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis."
         [[params.experience.list.items]]
         details = "Lorem ipsum dolor sit amet, consectetuer."
@@ -217,11 +217,6 @@ googleAnalytics = "G-MRV0T2HZ0C"
 
         [[params.projects.list]]
         title = "Project Sed Fringilla"
-        meta = "Open Source"
-        tagline = "You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
-
-        [[params.projects.list]]
-        title = "Project Praesent"
         meta = "Open Source"
         tagline = "You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
 
